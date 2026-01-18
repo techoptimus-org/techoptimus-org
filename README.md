@@ -28,7 +28,7 @@
 **Optimus Tech** is a software factory focused on building **high-scale technology solutions**.  
 We design, develop, and scale robust systems for high-demand environments.
 
-> We don’t just write code — we engineer systems that scale.
+<!-- We don’t just write code — we engineer systems that scale.-->
 
 ---
 
