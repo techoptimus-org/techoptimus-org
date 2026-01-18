@@ -66,14 +66,6 @@ We design, develop, and scale robust systems for high-demand environments.
 
 ---
 
-## 🐍 Contribution
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/techoptimus-org/techoptimus-org/output/snake.svg" alt="snake animation" />
-</p>
-
----
-
 ## ✨ Engineering Philosophy
 
 <p align="center">
